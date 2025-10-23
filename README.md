@@ -37,4 +37,4 @@ src/
 🌐 Deployed Application
 The application has been successfully deployed and is accessible via the following URL:
 
-Deployed URL: YOUR_VERCEL_OR_NETLIFY_URL_GOES_HERE
+Deployed URL: 
